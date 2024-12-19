@@ -2,7 +2,12 @@
 
 💼 Trusted Security Advisor at Onevinn
 
-[samueleng.se](https://www.samueleng.se)
+🌐 [samueleng.se](https://samueleng.se)
+
+🏅SC-100 | Microsoft Certified: Cybersecurity Architect Expert<br>
+🏅SC-200 | Microsoft Certified: Security Operations Analyst Associate<br>
+🏅SC-300 | Microsoft Certified: Identity and Access Administrator Associate<br>
+🏅AZ-104 | Microsoft Certified: Azure Administrator Associate
 
 ### List of content
 
