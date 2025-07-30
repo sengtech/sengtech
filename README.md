@@ -7,7 +7,7 @@
 🏅SC-100 | Microsoft Certified: Cybersecurity Architect Expert<br>
 🏅SC-200 | Microsoft Certified: Security Operations Analyst Associate<br>
 🏅SC-300 | Microsoft Certified: Identity and Access Administrator Associate<br>
-🏅AZ-104 | Microsoft Certified: Azure Administrator Associate
+🏅AZ-104 | Microsoft Certified: Azure Administrator Associate<br>
 🏅AZ-400 | Microsoft Certified: DevOps Engineer Expert
 
 ### List of content
