@@ -4,6 +4,7 @@
 
 🌐 [samueleng.se](https://samueleng.se)
 
+🏅AI-103 | Microsoft Certified: Azure AI Apps and Agents Developer Associate<br>
 🏅SC-100 | Microsoft Certified: Cybersecurity Architect Expert<br>
 🏅SC-200 | Microsoft Certified: Security Operations Analyst Associate<br>
 🏅SC-300 | Microsoft Certified: Identity and Access Administrator Associate<br>
