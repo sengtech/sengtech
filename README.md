@@ -4,6 +4,7 @@
 
 🌐 [samueleng.se](https://samueleng.se)
 
+🏅GH-300 | GitHub Copilot<br>
 🏅AI-103 | Microsoft Certified: Azure AI Apps and Agents Developer Associate<br>
 🏅SC-100 | Microsoft Certified: Cybersecurity Architect Expert<br>
 🏅SC-200 | Microsoft Certified: Security Operations Analyst Associate<br>
