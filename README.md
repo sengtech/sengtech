@@ -4,13 +4,14 @@
 
 🌐 [samueleng.se](https://samueleng.se)
 
-🏅GH-300 | GitHub Copilot<br>
+🏅AB-100 | Microsoft Certified: Agentic AI Business Solutions Architect<br>
 🏅AI-103 | Microsoft Certified: Azure AI Apps and Agents Developer Associate<br>
 🏅SC-100 | Microsoft Certified: Cybersecurity Architect Expert<br>
 🏅SC-200 | Microsoft Certified: Security Operations Analyst Associate<br>
 🏅SC-300 | Microsoft Certified: Identity and Access Administrator Associate<br>
 🏅AZ-104 | Microsoft Certified: Azure Administrator Associate<br>
-🏅AZ-400 | Microsoft Certified: DevOps Engineer Expert
+🏅AZ-400 | Microsoft Certified: DevOps Engineer Expert<br>
+🏅GH-300 | GitHub Copilot
 
 <!--
 **sengtech/sengtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
