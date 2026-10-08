@@ -13,6 +13,10 @@
 🏅AZ-400 | Microsoft Certified: DevOps Engineer Expert<br>
 🏅GH-300 | GitHub Copilot
 
+🏅 Microsoft Frontier Transformation Engineer
+
+<img width="200" height="200" alt="fte-removebg-preview" src="https://github.com/user-attachments/assets/a45d5070-680a-4761-b6bb-a51d6d4b9be8" />
+
 <!--
 **sengtech/sengtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
